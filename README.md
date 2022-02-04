@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OreoluwaSolaOjo
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently building with React and Django
 - 💞️ I’m looking to collaborate on projects in the future
 - 📫 How to reach me - Twitter: Oreoluwa_OSG, Mobile: +2349032809180
 
