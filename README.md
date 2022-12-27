@@ -1,7 +1,7 @@
 Hi 👋 My name is Oreoluwa Sola-Ojo
 ==================================
 
-Software Developer
+Software Engineer
 ------------------
 
 I am currently building web applications with React and Django.
