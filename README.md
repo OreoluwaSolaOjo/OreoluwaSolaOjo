@@ -4,7 +4,7 @@ Hi 👋 My name is Oreoluwa Sola-Ojo
 Software Engineer
 ------------------
 
-I am currently building web applications with React and Django.
+React x React Native x Vue x Laravel.
 
 * ✉️  You can contact me at [oreoluwasolaojo@gmail.com](mailto:oreoluwasolaojo@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
